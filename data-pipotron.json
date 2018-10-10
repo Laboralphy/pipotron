@@ -17,7 +17,16 @@
 		"la compréhension",
 		"l'organisation",
 		"la planification",
-		"l'exploration"
+		"l'exploration",
+		"l'ordonancement",
+		"l'amplitude",
+		"le progrès",
+		"l'approche qualitative",
+		"la logique",
+		"la force des choses",
+		"la puissance",
+		"le libéralisme",
+		"l'ultra-libéralisme"
 	],
 	"verb.s": [
 		"renforce",
@@ -37,7 +46,13 @@
 		"affirme",
 		"stabilise",
 		"étend",
-		"améliore"
+		"améliore",
+		"synthétise",
+		"régénère",
+		"intensifie",
+		"rétablit",
+		"assure",
+		"cristalise"
 	],
 	"nom.p": [
 		"les facteurs",
@@ -57,9 +72,17 @@
 		"les progrès",
 		"les standards",
 		"les ensembles",
-		"les groupements"
+		"les groupements",
+		"les convergences",
+		"les tendances",
+		"les bilans",
+		"les révolutions",
+		"les obstacles",
+		"les barages",
+		"les craintes",
+		"les aspects"
 	],
-	"adj.p":
+	"adj.p": [
 		"institutionnels",
 		"organisationnels",
 		"qualificatifs",
@@ -77,7 +100,12 @@
 		"relationnels",
 		"quantitatifs",
 		"distincts",
-		"croissants"
+		"croissants",
+		"novateurs",
+		"impactants",
+		"structurants",
+		"élaborés",
+		"fédérateurs"
 	],
 	"cod": [
 		"des synergies",
@@ -125,6 +153,12 @@
 		"nous devons garder en tête que {prop} sans oublier que {prop}.",
 		"à ce jour, deux points sont à retenir : - {prop} - {prop}.",
 		"sommes-nous sûr que {prop} ? non me direz-vous, seul {prop}.",
-		"il est urgent que {prop} pour que {prop}."
+		"il est urgent que {prop} pour que {prop}.",
+		"on pense souvent que {prop}, cela vient du faite que {prop}",
+		"{prop}, et cela nous conduit à croire que {prop}",
+		"on n'est pas surpris lorsque {prop}, cependant lorsque {prop} et que {prop} alors {prop}",
+		"c'est en se souvenant que {prop} qu'on s'assure que {prop}",
+		"on dit que {prop}, mais en vérité {prop}",
+		"on dit que {prop}, on dit également que {prop}. est-ce bien crédible ?"
 	]
 }

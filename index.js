@@ -5,12 +5,21 @@ const Pipotron = require('./Pipotron');
 
 const promReadFile = util.promisify(fs.readFile);
 
+let pp = new Pipotron();
+
 async function init() {
 	let sData = await promReadFile('data-pipotron.json');
 	let data = JSON.parse(sData);
-	return data;
+	pp.data(data);
 }
 
 function main() {
-	let pp = new Pipotron();
+	console.log(pp.render('phr'));
+	console.log(pp.render('phr'));
+	console.log(pp.render('phr'));
+	console.log(pp.render('phr'));
+	console.log(pp.render('phr'));
 }
+
+
+init().then(main);
